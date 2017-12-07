@@ -19,8 +19,19 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "expo": "^23.0.4",
+    "expo": "^23.0.6",
     "react": "16.0.0",
     "react-native": "0.50.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattyburns/Video-Tour.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattyburns/Video-Tour/issues"
+  },
+  "homepage": "https://github.com/mattyburns/Video-Tour#readme",
+  "description": ""
 }
