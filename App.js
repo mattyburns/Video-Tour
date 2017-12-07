@@ -15,6 +15,7 @@ export default class App extends React.Component {
           color="red"
         />
       </View>
+
     );
   }
 }
