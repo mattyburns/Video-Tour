@@ -1,5 +1,7 @@
 {
   "expo": {
+    "name": "video-tour",
+    "slug": "video-tour",
     "sdkVersion": "23.0.0"
   }
 }
